@@ -1,5 +1,4 @@
 # Hi there 👋  
-**Welcome to my GitHub profile!**  
 
 I'm **André Silva**, a Computer Science student based in Lisbon, Portugal. 🚀  
 
@@ -9,12 +8,8 @@ I'm **André Silva**, a Computer Science student based in Lisbon, Portugal. 🚀
   - Currently pursuing my Master’s in Computer Science (MSc) at IST-UL, specializing in **Distributed Systems**  
 
 - 🌐 **Involvement**:  
-  - Proud member of the **Board of European Students of Technology** ([BEST](https://www.best.eu.org/index.jsp))
+  - Member and former IT Coordinator of the **Board of European Students of Technology** ([BEST](https://www.best.eu.org/index.jsp))
   - Participated as a Mentor in the University's mentoring programme for new students ([NAPE](https://nape.tecnico.ulisboa.pt/en/mentorado/)).
-
-- 💡 **Professional Interests**:  
-  - Distributed Systems, large scale Software Architecture
-  - Cybersecurity (cryptography)
 
 ## What You'll Find Here  
 - 🌟 Projects showcasing my academic and professional journey in **Distributed Systems** and **Computer Science** as a whole.  
